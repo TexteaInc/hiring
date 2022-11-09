@@ -4,7 +4,7 @@
 
 公司注册在美国，目前已有天使轮融资。
 
-Co-funder 主页：[Himself65](https://github.com/Himself65)、[Forrest Bao](https://forrestbao.github.io/)
+Co-founder 主页：[Himself65](https://github.com/Himself65)、[Forrest Bao](https://forrestbao.github.io/)
 
 ## 技术栈
 
